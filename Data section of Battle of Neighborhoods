@@ -1,0 +1,18 @@
+Capstone
+
+Data
+
+we will need to access following data:
+
+- The neighbourhoods and districts in Atlanta from Wikipedia: https://en.wikipedia.org/wiki/Neighborhoods_in_Atlanta
+
+- The coordinates (latitude, longitude) ot these neighborhoods, districts, and localities of Atlanta from Open Street Map APIs
+
+- From Foursquare we will need the following venues data:
+  - the BBQ venues of the districts
+  - the offices venues of the districts
+  - the high schools venues of the districts
+  - the universities venues of the districts
+
+We will then analyze all aspects of the data in order to come up with logistically the best location to place a BBQ restaurant. . 
+© 2019 GitHub, Inc.
